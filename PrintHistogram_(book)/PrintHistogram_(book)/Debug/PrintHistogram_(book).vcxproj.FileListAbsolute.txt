@@ -1,0 +1,2 @@
+D:\study_source\c_code\test12.21\PrintHistogram_(book)\PrintHistogram_(book)\Debug\PrintHistogram_(book).exe
+D:\study_source\c_code\test12.21\PrintHistogram_(book)\PrintHistogram_(book)\Debug\PrintHistogram_(book).pdb
